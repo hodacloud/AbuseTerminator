@@ -38,7 +38,7 @@
 
 # دریافت اسکریپت
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/hodacloud/AbuzeTerminator/refs/heads/main/AbuseTerminator.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/hodacloud/AbuseTerminator/refs/heads/main/AbuseTerminator.sh)
 ```
 
 # قابل اجرا کردن
