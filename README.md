@@ -38,7 +38,7 @@
 
 # دریافت اسکریپت
 ```
-wget https://hodacloud.com/AbuTerminator.sh
+bash <(curl -Ls https://raw.githubusercontent.com/hodacloud/AbuzeTerminator/refs/heads/main/AbuseTerminator.sh)
 ```
 
 # قابل اجرا کردن
@@ -75,6 +75,9 @@ sudo ./AbuTerminator.sh
 
 📧 پشتیبانی
 برای پشتیبانی فنی و درخواست ویژگی‌های جدید:
-📩 ایمیل: support@hodacloud.com
-🌐 وبسایت: https://hodacloud.com
+
+📩 ایمیل:
+info@hodacloud.com
+🌐 وبسایت:
+https://hodacloud.com
 
